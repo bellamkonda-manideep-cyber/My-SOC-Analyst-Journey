@@ -33,7 +33,7 @@ Repeated several times with short intervals between sessions.
 
 Observed in Wazuh SIEM:
 
-- Multiple successful SSH login events
+- Multiple failed SSH login events
 
 - Same user account used
 
